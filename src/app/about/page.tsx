@@ -16,7 +16,7 @@ export default function About () {
     <div className="mt-10 lg:mt-40 lg:ml-36 text-center lg:text-left">
         <h1 className="text-[36px] lg:text-[54px] font-semibold">Our Story</h1>
         <p className="mt-6 lg:mt-16 text-sm lg:text-base">
-            Launced in 2015, Exclusive is South Asia's premier online shopping <br className="hidden lg:block" />
+            Launced in 2015, Exclusive is South Asias premier online shopping <br className="hidden lg:block" />
             marketplace with an active presence in Bangladesh. Supported <br className="hidden lg:block" />
             by a wide range of tailored marketing, data, and service solutions, <br className="hidden lg:block" />
             Exclusive has 10,500 sellers and 300 brands and serves 3 <br className="hidden lg:block" />
